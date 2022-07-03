@@ -2,6 +2,7 @@
 <h2>Hello! My name is Theo and I create Good Looking React and Blockchain Apps.</h2>
 
 
+<div style="float:left;">
 <p>I current work with these tools:</p>
 <p>
 <img alt="MUI"  src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
@@ -34,6 +35,7 @@
 <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="Linux"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
+  </div>
 <div style="float:right;">
 <a href="https://app.daily.dev/dorvo"><img src="https://api.daily.dev/devcards/5b208de5e4db48879c07bd75da46af79.png?r=77y" width="400" alt="Theo Oliveira's Dev Card"/></a>
 </div>
