@@ -34,5 +34,6 @@
 <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="Linux"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
-
+<div style="float:right;">
 <a href="https://app.daily.dev/dorvo"><img src="https://api.daily.dev/devcards/5b208de5e4db48879c07bd75da46af79.png?r=77y" width="400" alt="Theo Oliveira's Dev Card"/></a>
+</div>
