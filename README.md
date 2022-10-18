@@ -1,5 +1,5 @@
-# theooliveira
-<h2>Hello! My name is Theo and I create Good Looking React and Blockchain Apps.</h2>
+# Hello! My name is Theo and I create Good Looking React and Blockchain Apps
+
 
 
 <div style="float:left;">
