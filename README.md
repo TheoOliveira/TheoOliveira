@@ -6,11 +6,14 @@ Frontend | Blockchain | Open Source | App Creator
 
 I am a self-taught Frontend developer with a focus on ReactJS and NextJS. With over 4 years of experience in the field, I have a diverse skill set that includes experience with NodeJS, Blockchain projects, WordPress, Salesforce, Firebase, Tailwindcss, and ChakraUI. I am constantly seeking out new challenges and opportunities to grow as a professional in the tech industry.
 
-*   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [My website](http://theooliveira.tech)
-*   ✉️  You can contact me at [talktome@theooliveira.tech](mailto:talktome@theooliveira.tech)
-*   🧠  I'm learning Rust
-*   🤝  I'm open to collaborating on Frontend Projects using React and Blockchain using Solidity### Skills 
+* 🌍  I'm based in Brazil
+* 🖥️  See my portfolio at [My website](http://theooliveira.tech)
+* ✉️  You can contact me at [talktome@theooliveira.tech](mailto:talktome@theooliveira.tech)
+* 🧠  I'm learning Rust
+* 🤝  I'm open to collaborating on Frontend Projects using React and Blockchain using Solidity
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -40,21 +43,16 @@ I am a self-taught Frontend developer with a focus on ReactJS and NextJS. With o
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/theooliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/TheoOliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/theooliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/5853906/theo-oliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/TheoOliveira"><img src="https://github-readme-stats.vercel.app/api?username=TheoOliveira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheoOliveira's GitHub stats" /></a><a
-                      href="http://www.github.com/TheoOliveira"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheoOliveira&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/TheoOliveira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoOliveira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<div style="float:right;">
-<a href="https://app.daily.dev/dorvo"><img src="https://api.daily.dev/devcards/5b208de5e4db48879c07bd75da46af79.png?r=77y" width="400" alt="Theo Oliveira's Dev Card"/></a>
-</div>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/theooliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/TheoOliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/theooliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5853906/theo-oliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/TheoOliveira"><img src="https://github-readme-stats.vercel.app/api?username=TheoOliveira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheoOliveira's GitHub stats" /></a>
+
+<a href="http://www.github.com/TheoOliveira"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheoOliveira&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/TheoOliveira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoOliveira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
