@@ -7,8 +7,8 @@ Frontend | ReactJS | NodeJS | Learning Rust
 I am a self-taught Frontend developer with a focus on ReactJS and NextJS. With over 4 years of experience in the field, I have a diverse skill set that includes experience with NodeJS, Blockchain projects, WordPress, Salesforce, Firebase, Tailwindcss, and ChakraUI. I am constantly seeking out new challenges and opportunities to grow as a professional in the tech industry.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [My website](http://theooliveira.tech)
-* ✉️  You can contact me at [talktome@theooliveira.tech](mailto:talktome@theooliveira.tech)
+* 🖥️  See my portfolio at [My website](http://theooliveira.xyz)
+* ✉️  You can contact me at [theophilo.oliveira@gmail.com](mailto:theophilo.oliveira@gmail.com)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Frontend Projects using React and Blockchain using Solidity
 
