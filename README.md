@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Theo Oliveira
 =====================================================================================================================================
 
-Frontend | ReactJS | NodeJS | Learning Rust
+Fullstack | ReactJS | NodeJS | Rust
 -------------------------------------------------
 
 I am a self-taught Frontend developer with a focus on ReactJS and NextJS. With over 4 years of experience in the field, I have a diverse skill set that includes experience with NodeJS, Blockchain projects, WordPress, Salesforce, Firebase, Tailwindcss, and ChakraUI. I am constantly seeking out new challenges and opportunities to grow as a professional in the tech industry.
