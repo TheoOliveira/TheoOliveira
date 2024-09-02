@@ -10,7 +10,6 @@ I am a self-taught Frontend developer with a focus on ReactJS and NextJS. With o
 * 🖥️  See my portfolio at [My website](http://theooliveira.xyz)
 * ✉️  You can contact me at [theophilo.oliveira@gmail.com](mailto:theophilo.oliveira@gmail.com)
 * 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on Frontend Projects using React and Blockchain using Solidity
 
 ### Skills
 
